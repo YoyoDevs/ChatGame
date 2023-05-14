@@ -1,0 +1,4 @@
+name: PurpleStudiosChatGames
+version: '${project.version}'
+main: me.iiyoyo.purplestudioschatgames.PurpleStudiosChatGames
+api-version: 1.19
